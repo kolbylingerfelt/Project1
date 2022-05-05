@@ -1,0 +1,30 @@
+{
+"scoreboard":[
+        {
+        "Name": "Geoff",
+        "Alias": "Starshine",
+        "Win_or_Lose": 1
+        },
+        {
+            "Name": "Margaret",
+            "Alias": "Maggie",
+            "Win_or_Lose": 0
+        },
+        {
+            "Name": "Carter",
+            "Alias": "BALLLERRRR",
+            "Win_or_Lose": 0
+        },
+        {
+            "Name": "Lucy",
+            "Alias": "QUEEN",
+            "Win_or_Lose": 1
+        },
+        {
+            "Name": "Samson",
+            "Alias": "whatever",
+            "Win_or_Lose": 0
+        }
+        
+    ]
+}
