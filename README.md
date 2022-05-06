@@ -18,17 +18,17 @@ This Project involved created a command line application that follows and can pe
 ​
 ## Features
 ​
-List of features ready and TODOs for future development
 * Connects to MongoDB using PyMongo
 * Uploads game data from a JSON file into our MongoDB
 * Allows for all CRUD operations
 * Most importantly, it's a super fun game.
 ​
-Game Function:
+## Game Function
+
 * Play an escape room, save user inputs and allows for changes to be made to our database!
 ​
 ## Getting Started
 ​
 In order to play this game, you will need access to a terminal that can run Python. 
-Follow the URL to download Python onto your system and eventually running in your terminal: https://www.python.org/downloads/
+Follow the URL to download Python onto your system: https://www.python.org/downloads/
 Once youre connected and ready to play, navigate inside of your terminal to where you house your new game files. Launch Python before running and you will be good to go!
