@@ -1,3 +1,5 @@
+########MONGO CONNECTION STRING
+
 
 from pymongo import MongoClient
 

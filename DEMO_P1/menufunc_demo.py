@@ -9,17 +9,20 @@ import pickle
 
 
 def print_char(s):
+    ##Allows for characters to print out individually
     for c in s:
         sys.stdout.write( '%s' % c )
         sys.stdout.flush()
         time.sleep(.1)
 
 def delay_print(s):
+    ##Allows for characters to print out at a given speed
     for c in s:
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(.1)
 
+##Keeping this because I did not erase it out... no risks taken when your program is running smoothly!
 # #def onstart():
 #     delay_print("WELCOME TO THE ESCAPE ROOM!")
 #     print("")
