@@ -47,4 +47,5 @@ This Project involved creating a command line application that can perform the b
 
 
  ![mainmenu](https://ucarecdn.com/0219f813-5906-4b5c-98b6-913364ed2244/)
- They can save their win or loss to the Scoreboard (connected to mongoDB) if they want, or they can access any of the other features like view scoreboard, start a new escape room, update alias (for scoreboard), edit the scoreboard (delete saved records), upload data from JSON files, or quit the application.
+ 
+- They can save their win or loss to the Scoreboard (connected to mongoDB) if they want, or they can access any of the other features like view scoreboard, start a new escape room, update alias (for scoreboard), edit the scoreboard (delete saved records), upload data from JSON files, or quit the application.
